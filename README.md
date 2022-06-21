@@ -5,7 +5,7 @@
 <h3> 👱‍♂️: &nbsp;Giới thiệu </h3>
 
 - 🔭 Hiện tại tôi đang nghiên cứu Machine Learning
-- :heart: My favorite language: SQL, Python
+- :heart: Ngôn ngữ yêu thích: SQL, Python
 - 🌱 Tôi đang học: Trường đại học Giao Thông Vận Tải TPHCM
 - 👯 Tôi luôn tìm cách học hỏi trong lĩnh vực về trí tuệ nhân tạo và phân tích dữ liệu
 - ⚡ Ước mơ của tôi là trở thành một chuyên gia phân tích dữ liệu. 🖖
