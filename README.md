@@ -1,64 +1,25 @@
-![Welcome Banner](banner.gif)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tran Huu An
+===================================================================================================================================
 
+Machine Learning & Backend Developer
+------------------------------------
 
+Welcome to my GitHub profile! I am a passionate developer with a strong focus on Machine Learning and Backend Development. Throughout my journey, I’ve had the opportunity to work with various technologies and tools, from building backend systems using Java Spring Boot and Python (FastAPI) to implementing Machine Learning models for real-world applications. I am always eager to take on new challenges and continuously improve my skills. My goal is to create intelligent, optimized solutions that deliver sustainable value.
 
-<h3> 👱‍♂️: &nbsp;Giới thiệu </h3>
+* 🌍  I'm based in Da Nang City
+* ✉️  You can contact me at [tranhuuan0342@gmail.com](mailto:tranhuuan0342@gmail.com)
 
-- 🔭 Hiện tại tôi đang nghiên cứu Machine Learning
-- :heart: Ngôn ngữ yêu thích: SQL, Python
-- 🌱 Tôi đang học: Trường đại học Giao Thông Vận Tải TPHCM
-- 👯 Tôi luôn tìm cách học hỏi trong lĩnh vực về trí tuệ nhân tạo và phân tích dữ liệu
-- ⚡ Ước mơ của tôi là trở thành một chuyên gia phân tích dữ liệu. 🖖
-- ⚡ Sở thích: Đá bóng, đồ công nghệ
+### Skills
 
-<br/>
-
-<h3> 🛠 &nbsp;Công nghệ</h3>
-
-- :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
-
-
-<br/>
-
-<p>
-
-## 📝 Dự án gần đây
-### [ Xây dựng mô hình dự đoán giá nhà: ](https://github.com/tranhuuan170302/analyts-housePrice.git)<br>
-+ Sự dụng mô hình hồi qui tuyến tính xây dựng mô hình dự đoán giá nhà dự trên các thuộc tính đã cho<br>
-sử dụng thư viện Utilized: skLearn, Pandas, Numpy, Matplotlib, Seaborn
-
-### [ Xây dựng mô hình dự đoán giá xe ô tô: ](https://github.com/tranhuuan170302/Tran-Huu-An-data-analyst/blob/main/carPrice.ipynb)<br>
-Xây dựng mô hình hồi qui tuyến tính dự đoán giá xe ô tô dựa trên các thuộc tính đã cho. <br>
-Sử dụng thư viện: Skearn, Pandas, Numpy, Matplotlib, Seaborn
-
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
+### Socials
 
-<h3> 🤝🏻 &nbsp;Trang cá nhân của tôi </h3> 
+<p align="left"> <a href="https://www.github.com/tranhuuan170302" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tran-huu-an-520295234/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-<p>
-<br>
+<b>My GitHub Stats</b>
 
-  - <b>Linkedin</b>: www.linkedin.com/in/ân-trần-520295234
-  - <b> Facebook</b>: https://www.facebook.com/tranhuu.an.10690
-  - <b> Gmail</b>: tranhuuan0202@gmail.com
-
-
-
-
-<br/> 
-
-
-
+<a href="http://www.github.com/tranhuuan170302"><img src="https://github-readme-stats.vercel.app/api?username=tranhuuan170302&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="tranhuuan170302's GitHub stats" /></a>
